@@ -1,6 +1,6 @@
 fun main() {
 
-    var x = -67 //Interger
+    var x = -67 //Integer
     var number = 56.34 //Double
     var num = 34.12F //Float
     var school = "eMobilis" //String
